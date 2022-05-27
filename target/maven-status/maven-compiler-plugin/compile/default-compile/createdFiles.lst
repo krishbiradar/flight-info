@@ -1,6 +1,8 @@
+com\virgin\flightinfo\controller\FlightInfoExceptionHandler.class
+com\virgin\flightinfo\model\FlightInfo.class
+com\virgin\flightinfo\service\FlightInfoCsvReaderService.class
 com\virgin\flightinfo\Application.class
 com\virgin\flightinfo\controller\FlightInfoController.class
 com\virgin\flightinfo\model\ColumnNumber.class
+com\virgin\flightinfo\exception\NoFlightsFoundException.class
 com\virgin\flightinfo\service\FlightInfoService.class
-com\virgin\flightinfo\model\FlightInfo.class
-com\virgin\flightinfo\service\FlightInfoCsvReaderService.class
